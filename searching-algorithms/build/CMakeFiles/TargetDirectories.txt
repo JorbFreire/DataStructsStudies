@@ -1,0 +1,4 @@
+/home/jorbralyson.freire/Documentos/code/searching_algorithms/build/CMakeFiles/rebuild_cache.dir
+/home/jorbralyson.freire/Documentos/code/searching_algorithms/build/CMakeFiles/driver_search.dir
+/home/jorbralyson.freire/Documentos/code/searching_algorithms/build/CMakeFiles/edit_cache.dir
+/home/jorbralyson.freire/Documentos/code/searching_algorithms/build/CMakeFiles/run_tests.dir
