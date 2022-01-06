@@ -19,3 +19,4 @@ vector <unsigned> bubble(vector <unsigned> input){
     output = input;
     return output;
 }
+// O(n) = n + log(n)

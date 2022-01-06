@@ -3,7 +3,6 @@
 using namespace std;
 vector <unsigned> insertion (vector <unsigned> input){
     vector <unsigned> output;
-    bool finish = true;
     
     int it = 0;
     unsigned first;
@@ -28,3 +27,4 @@ vector <unsigned> insertion (vector <unsigned> input){
     output = input;
     return output;
 }
+// O(n) = n + log(n)
